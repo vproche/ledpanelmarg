@@ -1,4 +1,4 @@
 # ledpanelmarg
 MARG Led Pannel
 
-Giant Led Pannel based on leds WS2812B
+Giant led panel based on WS2812B leds
